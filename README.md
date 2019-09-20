@@ -4,7 +4,7 @@ This is a paltform that allows users to create their virtual library and exchang
 
 ## How to use?
 
-Currently WIP but if you want you can clone this repository, download it and then open project in your IDE.
+Currently WIP but if you want you can clone this repository and then open the project in your IDE.
 I'm using InteliJ Idea and if you too, then simply go to File > Open.. and choose the folder where you've cloned repository.
 Any feedback is very appreciated and if you want to contribute just make a pullrequest with your suggestions!
 
